@@ -21,7 +21,7 @@ A simple product management application that allows users to create, view, updat
 
 Watch the screen recording below to see how the application works.
 
-https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+https://github.com/user-attachments/assets/833d948a-3bf4-4475-8b00-036f130c4a1f
 
 ## Project Structure
 
