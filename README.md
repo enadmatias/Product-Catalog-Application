@@ -21,7 +21,7 @@ A simple product management application that allows users to create, view, updat
 
 Watch the screen recording below to see how the application works.
 
-https://github.com/enadmatias/Product-Catalog-Application/issues/1#issue-5978297411ssss
+https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 
 ## Project Structure
 
