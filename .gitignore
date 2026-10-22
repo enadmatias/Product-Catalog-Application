@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Java / Spring Boot / Gradle
+.gradle/
+**/build/
+*.class
+
+# React / Vite / Node.js
+**/node_modules/
+**/dist/
+**/coverage/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
